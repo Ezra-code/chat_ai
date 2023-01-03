@@ -17,7 +17,7 @@ This project is a clone of the current trending chat GPT. It is built with Vanil
 
  ## Installation Instructions 
 
- 1. Clone the repository: `git clone https://github.com/username/gpt_chat_clone`  
+ 1. Clone the repository: `git clone git@github.com:Ezra-code/chat_ai.git`  
 
  2. Install dependencies: `npm install`  
 
